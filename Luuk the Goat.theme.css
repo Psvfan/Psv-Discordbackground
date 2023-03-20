@@ -9,8 +9,8 @@
  * @BDEditor Clear Vision
 */
 
-@import url('https://github.com/Psvfan/Psv-Discordbackground/blob/main/Luuk%20the%20Goat.theme.css');
-@import url('https://github.com/Psvfan/Psv-Discordbackground/blob/main/Luuk%20the%20Goat.theme.css');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --main-color: #F44336;
@@ -98,7 +98,3 @@
   --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
 }
-
-/* Any custom CSS below here */
-
-
